@@ -9,10 +9,10 @@ do.devicecheck=1
 do.modules=0
 do.cleanup=1
 do.cleanuponabort=1
-device.name1=cheeseburger
-device.name2=OnePlus5
-device.name3=dumpling
-device.name4=OnePlus5T
+device.name1=dumpling
+device.name2=OnePlus5T
+device.name3=
+device.name4=
 device.name5=
 } # end properties
 
